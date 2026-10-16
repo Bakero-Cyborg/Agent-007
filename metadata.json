@@ -1,0 +1,8 @@
+{
+  "name": "Remix Master Prompt AI Orchestrator",
+  "description": "A professional multi-agent platform featuring a centralized supervisor for managing specialized AI teams and complex workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

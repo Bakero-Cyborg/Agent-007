@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgentCore</string>
+    <string name="platform_subtitle">نظام وكلاء الذكاء الاصطناعي المتخصصين</string>
+    <string name="supervisor_agent">الوكيل المشرف المركزي</string>
+    <string name="dashboard_tab">لوحة التحكم</string>
+    <string name="agents_tab">الوكلاء</string>
+    <string name="tasks_tab">المهام وسير العمل</string>
+    <string name="chat_tab">المحادثة والأوامر</string>
+    <string name="security_tab">الأمان والتدقيق</string>
+</resources>
